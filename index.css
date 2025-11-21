@@ -380,8 +380,9 @@ body {
      display: flex;
      flex-direction: column;
      flex-wrap: wrap;
-     width: 25%;
+     width: 20%;
      align-items: center;
+     text-align: center;
 }
 
 .s1 img {
@@ -634,5 +635,11 @@ footer {
 
      .foot {
           font-size: 13px;
+     }
+     .imgg{
+          width: 300px;
+     }
+     .img2{
+          width: 245px;
      }
 }
